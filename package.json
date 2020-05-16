@@ -1,0 +1,23 @@
+{
+  "name": "facebook-raw-chatbot-boilerplate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "node index.js",
+  "scripts": {
+    "test": "node index.js",
+    "start": "node index.js"
+  },
+  "author": "Pourab Karchaudhuri",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "lodash": "^4.17.15",
+    "morgan": "^1.9.1",
+    "node-fetch": "^2.6.0",
+    "nodemailer": "^6.4.2",
+    "request": "^2.88.0"
+  }
+}
