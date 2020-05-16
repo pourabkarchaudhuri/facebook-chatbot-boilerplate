@@ -1,4 +1,4 @@
-# Express Middleware Boilerplate
+# Facebook Conversational Interface Boilerplate
 
 A boilerplate framework to get started to build conversational AI bots using facebook messenger as a raw interface
 
